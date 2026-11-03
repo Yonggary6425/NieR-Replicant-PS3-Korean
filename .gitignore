@@ -1,0 +1,10 @@
+# 게임 데이터·백업은 올리지 않음
+backup/
+*.SDAT
+*.sdat
+*.DAT
+*.iso
+*.ISO
+*.PUP
+_split/
+__pycache__/
